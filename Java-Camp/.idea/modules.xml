@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java-Camp.iml" filepath="$PROJECT_DIR$/Java-Camp.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-demo/java-demo.iml" filepath="$PROJECT_DIR$/java-demo/java-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/variables/variables.iml" filepath="$PROJECT_DIR$/variables/variables.iml" />
     </modules>
   </component>
 </project>
