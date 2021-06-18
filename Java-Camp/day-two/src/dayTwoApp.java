@@ -11,8 +11,8 @@ public class dayTwoApp {
 
     public static void main (String[] args) {
 
-    /*    Product product1 =new Product();
-        product1.id=1;
+     Product product1 =new Product(1,"Lenovo V14",15000," 16Gb",10);
+     /*   product1.id=1;
         product1.name="Lenovo V14";
         product1.unitPrice=15000;
         product1.detail="16 GB Ram";
@@ -26,13 +26,13 @@ Product product3 =new Product();
         product3.name="HP Envy";
         product3.unitPrice=10000;
         product3.detail="8 GB Ram";
-
+*/
         ProductManager productManager =new ProductManager();
 
+  /*      productManager.addCToart(product1);
+        productManager.addCToart(product2);*/
         productManager.addCToart(product1);
-        productManager.addCToart(product2);
-        productManager.addCToart(product3);*/
-
+        System.out.println("Discounted Price : "+product1.getUnitPriceAfterDiscount());
         CustomerManager customerManager = new CustomerManager();
 
         customerManager.add(new Customer(1,"Osman Can","ISKIT",28,new City(1,"TUR","Istanbul"),true));
