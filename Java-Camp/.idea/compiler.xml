@@ -6,11 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="game-sim-hw-three" />
         <module name="coffee-shop-day-four" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="coffee-shop-day-four" target="14" />
+      <module name="game-sim-hw-three" target="14" />
     </bytecodeTargetLevel>
   </component>
 </project>
