@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="game-sim-hw-three" />
         <module name="coffee-shop-day-four" />
+        <module name="nLayeredDemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="coffee-shop-day-four" target="14" />
       <module name="game-sim-hw-three" target="14" />
+      <module name="nLayeredDemo" target="14" />
     </bytecodeTargetLevel>
   </component>
 </project>
