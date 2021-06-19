@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java-Camp.iml" filepath="$PROJECT_DIR$/Java-Camp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coffee-shop-day-four/coffee-shop-day-four.iml" filepath="$PROJECT_DIR$/coffee-shop-day-four/coffee-shop-day-four.iml" />
       <module fileurl="file://$PROJECT_DIR$/dataTypes/dataTypes.iml" filepath="$PROJECT_DIR$/dataTypes/dataTypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/day-three/day-three.iml" filepath="$PROJECT_DIR$/day-three/day-three.iml" />
       <module fileurl="file://$PROJECT_DIR$/day-two/day-two.iml" filepath="$PROJECT_DIR$/day-two/day-two.iml" />
